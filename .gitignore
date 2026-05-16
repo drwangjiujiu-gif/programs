@@ -28,6 +28,9 @@ release/
 debug/
 bin/
 obj/
+site/
+.gradle/
+app/war/
 
 # Dependencies
 node_modules/
@@ -42,6 +45,10 @@ __pycache__/
 *.rar
 *.tar
 *.gz
+
+# Portable packages / local runtime
+electron-v*-win32-x64/
+release-assets/
 
 # Local env
 .env
