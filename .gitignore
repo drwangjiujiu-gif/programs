@@ -1,0 +1,48 @@
+# System
+Thumbs.db
+.DS_Store
+
+# Editors
+.vscode/
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Logs
+*.log
+
+# Temp
+*.tmp
+*.temp
+*.bak
+*.swp
+*.orig
+
+# Build output
+build/
+dist/
+out/
+release/
+debug/
+bin/
+obj/
+
+# Dependencies
+node_modules/
+
+# Python
+__pycache__/
+*.pyc
+
+# Archives
+*.zip
+*.7z
+*.rar
+*.tar
+*.gz
+
+# Local env
+.env
+.env.*
